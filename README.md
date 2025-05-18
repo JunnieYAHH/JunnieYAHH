@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gerelito B. Puyos Jr.</h1>
 <h3 align="center">I do backend and frontend development for react native and react</h3>
-<img src="https://raw.githubusercontent.com/JunnieYAHH/JunnieYAHH/workflows/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/JunnieYAHH/JunnieYAHH/output/snake.svg" alt="Snake animation" />
 
 ###
 
