@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gerelito B. Puyos Jr.</h1>
 <h3 align="center">I do backend and frontend development for react native and react</h3>
 
+<img src="https://raw.githubusercontent.com/JunnieYAHH/JunnieYAHH/output/snake.svg" alt="Snake animation" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junnieyahh&label=Profile%20views&color=0e75b6&style=flat" alt="junnieyahh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=junnieyahh" alt="junnieyahh" /></a> </p>
